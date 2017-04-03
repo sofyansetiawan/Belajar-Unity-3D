@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E99DC9DF-AF8C-1A2E-2342-F28BC24534EE}") = "PermainanBola", "Assembly-CSharp.csproj", "{4FFBA156-B2A1-4BAB-6FF4-C13417387DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFBA156-B2A1-4BAB-6FF4-C13417387DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFBA156-B2A1-4BAB-6FF4-C13417387DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFBA156-B2A1-4BAB-6FF4-C13417387DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFBA156-B2A1-4BAB-6FF4-C13417387DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = Mono
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+	EndGlobalSection
+EndGlobal
